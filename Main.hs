@@ -7,7 +7,7 @@ import Control.Monad
 geraRandom :: Int -> Int -> IO Int
 geraRandom min max = getStdRandom (randomR (min, max))
 
--- Função para gerar as coordenadas x e y de uma
+-- Função para gerar as coordenadas x e y
 geraCoordenadas :: IO (Int, Int)
 geraCoordenadas = do
   x <- geraRandom 0 900
