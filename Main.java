@@ -28,7 +28,7 @@ public class Main {
                 // Gera cor aleatória para a estrela
                 String cor = String.format("#%06X", rand.nextInt(0xFFFFFF + 1));
 
-                // Cria o triângulo da estrela
+                // Cria o triângulos da estrela e as linhas
                for (int j = 0; j < 15; j++) {
                 
                   String corLinha = String.format("#%06X", rand.nextInt(0xFFFFFF + 1));
