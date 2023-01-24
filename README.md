@@ -9,11 +9,11 @@ Created by GitHub Classroom
 
 - Java:
 
-![](RackMultipart20230124-1-lpyf6k_html_d25c92b1287a4c89.png) ![alt text](RackMultipart20230124-1-lpyf6k_html_e7b1376e5839b837.png)
+![](./imgs/img1.png) ![](./imgs/img2.png)
 
 - Haskell:
 
-![](RackMultipart20230124-1-lpyf6k_html_629dc174b91c541e.png) ![](RackMultipart20230124-1-lpyf6k_html_aa17a3b98950bd86.png)
+![](./imgs/img3.png) ![](./imgs/img4.png)
 
 ### _Como executar o programa:_
 
